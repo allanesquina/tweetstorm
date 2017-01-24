@@ -3,7 +3,7 @@
 A simple Tweetstorm implementation for study purpose only
 
 ## Run
-``$ npm start```
+```$ npm start```
 
 ## Usage
-``$ bin/tweetstorm "tweet text"```
+```$ bin/tweetstorm "tweet text"```
